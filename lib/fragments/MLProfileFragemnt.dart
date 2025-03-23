@@ -51,12 +51,12 @@ class MLProfileFragmentState extends State<MLProfileFragment> {
                       ),
                       8.height,
                       Text(
-                        'H Pham',
+                        'Houssem Zorgui',
                         style: boldTextStyle(color: white, size: 24),
                       ),
                       4.height,
                       Text(
-                        'johnsmith@gmail.com',
+                        'houssemzorgui10@gmail.com',
                         style: secondaryTextStyle(color: white, size: 16),
                       ),
                     ],

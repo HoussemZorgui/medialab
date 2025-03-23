@@ -143,7 +143,7 @@ class MLAppointmentDetailListState extends State<MLAppointmentDetailList> {
                     ),
                     8.height,
                     Text(
-                      'H Pham',
+                      'Houssem Zorgui',
                       style: primaryTextStyle(color: mlColorDarkBlue),
                     ),
                   ],

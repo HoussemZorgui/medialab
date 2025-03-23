@@ -280,7 +280,7 @@ List<MLTopHospitalData> mlHospitalListDataList() {
   list.add(
     MLTopHospitalData(
       image: ml_ic_hospital_one,
-      title: 'Johns Hokins Hospital',
+      title: 'Houssem Zorgui Hospital',
       city: 'New York, NY',
       rating: '4.8 (456 Reviews)',
       fees: '\$350',
@@ -298,7 +298,7 @@ List<MLTopHospitalData> mlHospitalListDataList() {
   list.add(
     MLTopHospitalData(
       image: ml_ic_hospital_three,
-      title: 'Johns Hokins Hospital',
+      title: 'Houssem Zorgui  Hospital',
       city: 'New York, NY',
       rating: '4.8 (456 Reviews)',
       fees: '\$350',
@@ -316,7 +316,7 @@ List<MLTopHospitalData> mlHospitalListDataList() {
   list.add(
     MLTopHospitalData(
       image: ml_ic_hospital_one,
-      title: 'Johns Hokins Hospital',
+      title: 'Houssem Zorgui Hospital',
       city: 'New York, NY',
       rating: '4.8 (456 Reviews)',
       fees: '\$350',
@@ -334,7 +334,7 @@ List<MLTopHospitalData> mlHospitalListDataList() {
   list.add(
     MLTopHospitalData(
       image: ml_ic_hospital_three,
-      title: 'Johns Hokins Hospital',
+      title: 'Houssem Zorgui  Hospital',
       city: 'New York, NY',
       rating: '4.8 (456 Reviews)',
       fees: '\$350',
@@ -480,7 +480,7 @@ List<String?> mlScheduleTimeList() {
 List<MLPatientData> mlPatientDataList() {
   List<MLPatientData> list = [];
   list.add(
-    MLPatientData(name: 'Kaixa Pham', dob: '21-09-1995', relation: 'label'),
+    MLPatientData(name: 'Houssem Zorgui', dob: '21-09-1995', relation: 'label'),
   );
   list.add(
     MLPatientData(name: 'Stephen Chew', dob: '12-11-1990', relation: 'Brother'),
@@ -524,7 +524,9 @@ List<MLPaymentData> mlPaymentDataList() {
       title: '**** **** **** 1210',
     ),
   );
-  list.add(MLPaymentData(image: ml_ic_bank_payment_four, title: 'Kaixa Pham'));
+  list.add(
+    MLPaymentData(image: ml_ic_bank_payment_four, title: 'Houssem Zorgui'),
+  );
   return list;
 }
 
@@ -837,9 +839,7 @@ List<MLNewsData> mlCovidNewsDataList() {
 List<MLInboxData> mlInboxChatDataList() {
   List<MLInboxData> list = [];
   list.add(MLInboxData(id: 0, message: 'i have already taken medicine'));
-  list.add(
-    MLInboxData(id: 1, message: 'Hi Kaixa, have you taken your pills yet?'),
-  );
+  list.add(MLInboxData(id: 1, message: 'Hi H, have you taken your pills yet?'));
   list.add(
     MLInboxData(id: 1, message: 'sorry but i can\'t find your home number'),
   );
@@ -865,7 +865,7 @@ List<MLInboxData> mlBotChatDataList() {
     MLInboxData(
       id: 1,
       message:
-          'Hi Kaixa, Thank you for using Medilab\'s consulting service.'
+          'Hi Houssem, Thank you for using Medilab\'s consulting service.'
           'what are you intrested in our comprehensice checkup package?',
     ),
   );
@@ -932,7 +932,7 @@ List<MLAppointmentData> mlAppointmentDataList() {
       month: 'october',
       doctor: 'Dr. Stephen Chew',
       department: 'General Care',
-      patient: 'Kaixa Pham',
+      patient: 'Houssem Zorgui',
       service: 'Clinic Visit',
     ),
   );
