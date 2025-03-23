@@ -11,8 +11,8 @@ A new **Flutter** project.
     <td align="center"><b>☀️ Light Mode</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/splash_dark.png" width="300"></td>
-    <td><img src="screenshots/splash_light.png" width="300"></td>
+    <td><img src="screenshots/splash_dark.png" width="200"></td>
+    <td><img src="screenshots/splash_light.png" width="200"></td>
   </tr>
 </table>
 
@@ -26,9 +26,9 @@ A new **Flutter** project.
     <td align="center"><b>📌 Get Started 3</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/getstarted_1.png" width="300"></td>
-    <td><img src="screenshots/getstarted_2.png" width="300"></td>
-    <td><img src="screenshots/getstarted_3.png" width="300"></td>
+    <td><img src="screenshots/getstarted_1.png" width="200"></td>
+    <td><img src="screenshots/getstarted_2.png" width="200"></td>
+    <td><img src="screenshots/getstarted_3.png" width="200"></td>
   </tr>
 </table>
 
@@ -41,8 +41,8 @@ A new **Flutter** project.
     <td align="center"><b>📝 Register Screen</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/login_light.png" width="300"></td>
-    <td><img src="screenshots/register_light.png" width="300"></td>
+    <td><img src="screenshots/login_light.png" width="200"></td>
+    <td><img src="screenshots/register_light.png" width="200"></td>
   </tr>
 </table>
 
@@ -55,8 +55,8 @@ A new **Flutter** project.
     <td align="center"><b>☀️ Light Mode</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/home_dark.png" width="300"></td>
-    <td><img src="screenshots/home_light.png" width="300"></td>
+    <td><img src="screenshots/home_dark.png" width="200"></td>
+    <td><img src="screenshots/home_light.png" width="200"></td>
   </tr>
 </table>
 
@@ -69,8 +69,8 @@ A new **Flutter** project.
     <td align="center"><b>☀️ Light Mode</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/profile_dark.png" width="300"></td>
-    <td><img src="screenshots/profile_light.png" width="300"></td>
+    <td><img src="screenshots/profile_dark.png" width="200"></td>
+    <td><img src="screenshots/profile_light.png" width="200"></td>
   </tr>
 </table>
 
