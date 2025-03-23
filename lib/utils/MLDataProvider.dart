@@ -942,7 +942,7 @@ List<MLAppointmentData> mlAppointmentDataList() {
       month: 'September',
       doctor: 'Dr. Stephen Chew',
       department: 'Pediatric',
-      patient: 'Kaixa Pham ',
+      patient: 'Houssem Zorgui',
       service: 'Home Visit',
     ),
   );
@@ -952,7 +952,7 @@ List<MLAppointmentData> mlAppointmentDataList() {
       month: 'october',
       doctor: 'Dr. Stephen Chew',
       department: 'General Care',
-      patient: 'Kaixa Pham ',
+      patient: 'Houssem Zorgui',
       service: 'Video Consult',
     ),
   );
@@ -962,7 +962,7 @@ List<MLAppointmentData> mlAppointmentDataList() {
       month: 'September',
       doctor: 'Dr. Stephen Chew',
       department: 'Pediatric',
-      patient: 'Kaixa Pham ',
+      patient: 'Houssem Zorgui',
       service: 'Home Visit',
     ),
   );
@@ -972,7 +972,7 @@ List<MLAppointmentData> mlAppointmentDataList() {
       month: 'october',
       doctor: 'Dr. Stephen Chew',
       department: 'General Care',
-      patient: 'Kaixa Pham ',
+      patient: 'Houssem Zorgui',
       service: 'Clinic Visit',
     ),
   );

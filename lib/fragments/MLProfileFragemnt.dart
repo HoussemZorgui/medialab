@@ -51,7 +51,7 @@ class MLProfileFragmentState extends State<MLProfileFragment> {
                       ),
                       8.height,
                       Text(
-                        'Kaixa Pham',
+                        'H Pham',
                         style: boldTextStyle(color: white, size: 24),
                       ),
                       4.height,
