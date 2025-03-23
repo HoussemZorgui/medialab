@@ -80,7 +80,7 @@ A new **Flutter** project.
 
 This project is a starting point for a **Flutter application**.
 
-### 📚 Resources  
-- [Flutter Codelab](https://docs.flutter.dev/get-started/codelab)  
-- [Flutter Cookbook](https://docs.flutter.dev/cookbook)  
-- [Official Flutter Documentation](https://docs.flutter.dev/)  
+---
+
+## 💙 Developed with Love  
+Made with ❤️ by **Houssem Zorgui**  
