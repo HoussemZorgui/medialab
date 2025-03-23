@@ -1,6 +1,6 @@
 # 📱 Mediab  
 
-A new **Flutter** project.
+A new **Flutter** project for media content management.
 
 ## 📸 Screenshots  
 
@@ -15,6 +15,7 @@ A new **Flutter** project.
     <td><img src="screenshots/splash_light.png" width="200"></td>
   </tr>
 </table>
+Short description: The splash screen welcomes users with a smooth animation.
 
 ---
 
@@ -31,6 +32,7 @@ A new **Flutter** project.
     <td><img src="screenshots/getstarted_3.png" width="200"></td>
   </tr>
 </table>
+Short description: These screens introduce the app's features and functionalities.
 
 ---
 
@@ -45,6 +47,7 @@ A new **Flutter** project.
     <td><img src="screenshots/register_light.png" width="200"></td>
   </tr>
 </table>
+Short description: Secure authentication for logging in and signing up.
 
 ---
 
@@ -59,6 +62,7 @@ A new **Flutter** project.
     <td><img src="screenshots/home_light.png" width="200"></td>
   </tr>
 </table>
+Short description: The main dashboard displaying media content.
 
 ---
 
@@ -73,12 +77,30 @@ A new **Flutter** project.
     <td><img src="screenshots/profile_light.png" width="200"></td>
   </tr>
 </table>
+Short description: Manage user profile settings and preferences.
 
 ---
 
 ## 🚀 Getting Started  
 
-This project is a starting point for a **Flutter application**.
+### Prerequisites  
+- Install **Flutter**: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)  
+- Install **Dart**: Included with Flutter  
+
+### Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/HoussemZorgui/medialab.git
+   cd medialab
+   ```
+2. Install dependencies:  
+   ```sh
+   flutter pub get
+   ```
+3. Run the application:  
+   ```sh
+   flutter run
+   ```
 
 ---
 
