@@ -5,45 +5,74 @@ A new **Flutter** project.
 ## 📸 Screenshots  
 
 ### 🖥️ Splash Screen  
-#### 🌙 Dark Mode  
-<img src="screenshots/splash_dark.png" width="300">  
-
-#### ☀️ Light Mode  
-<img src="screenshots/splash_light.png" width="300">  
+<table>
+  <tr>
+    <td align="center"><b>🌙 Dark Mode</b></td>
+    <td align="center"><b>☀️ Light Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/splash_dark.png" width="300"></td>
+    <td><img src="screenshots/splash_light.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Get Started Screens  
-<img src="screenshots/getstarted_1.png" width="300">
-<img src="screenshots/getstarted_2.png" width="300">
-<img src="screenshots/getstarted_3.png" width="300">
+<table>
+  <tr>
+    <td align="center"><b>📌 Get Started 1</b></td>
+    <td align="center"><b>📌 Get Started 2</b></td>
+    <td align="center"><b>📌 Get Started 3</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/getstarted_1.png" width="300"></td>
+    <td><img src="screenshots/getstarted_2.png" width="300"></td>
+    <td><img src="screenshots/getstarted_3.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
 ### 🔐 Authentication Screens  
-#### ☀️ Login Screen  
-<img src="screenshots/login_light.png" width="300">  
-
-#### ☀️ Register Screen  
-<img src="screenshots/register_light.png" width="300">  
+<table>
+  <tr>
+    <td align="center"><b>🔑 Login Screen</b></td>
+    <td align="center"><b>📝 Register Screen</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/login_light.png" width="300"></td>
+    <td><img src="screenshots/register_light.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
 ### 🏠 Home Screen  
-#### 🌙 Dark Mode  
-<img src="screenshots/home_dark.png" width="300">  
-
-#### ☀️ Light Mode  
-<img src="screenshots/home_light.png" width="300">  
+<table>
+  <tr>
+    <td align="center"><b>🌙 Dark Mode</b></td>
+    <td align="center"><b>☀️ Light Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home_dark.png" width="300"></td>
+    <td><img src="screenshots/home_light.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
 ### 👤 Profile Screen  
-#### 🌙 Dark Mode  
-<img src="screenshots/profile_dark.png" width="300">  
-
-#### ☀️ Light Mode  
-<img src="screenshots/profile_light.png" width="300">  
+<table>
+  <tr>
+    <td align="center"><b>🌙 Dark Mode</b></td>
+    <td align="center"><b>☀️ Light Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/profile_dark.png" width="300"></td>
+    <td><img src="screenshots/profile_light.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
